@@ -1,6 +1,6 @@
-# zipaura — Archive Manager
+# ZipAura — Archive Manager
 
-**zipaura** is a sleek, modern archive management tool built with Python and PyQt5. It offers a user-friendly GUI for creating, browsing, and modifying ZIP and RAR archives with ease.
+**ZipAura** is a sleek, modern archive management tool built with Python and PyQt5. It offers a user-friendly GUI for creating, browsing, and modifying ZIP and RAR archives with ease.
 
 
 
@@ -22,6 +22,6 @@
 
 ## 🎮 Discord Rich Presence
 
-Stay connected while you work—zipaura updates your Discord status in real time. For example:  
+Stay connected while you work—ZipAura updates your Discord status in real time. For example:  
 `Browsing Archive: example.zip`
 
