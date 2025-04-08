@@ -25,4 +25,3 @@
 Stay connected while you work—zipaura updates your Discord status in real time. For example:  
 `Browsing Archive: example.zip`
 
-<img src="https://raw.githubusercontent.com/MaestroDelFuego/ZipAura/refs/heads/main/zipaura.ico" alt="zipaura logo" width="300"/>
