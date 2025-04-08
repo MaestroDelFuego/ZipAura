@@ -2,7 +2,7 @@
 
 **zipaura** is a sleek, modern archive management tool built with Python and PyQt5. It offers a user-friendly GUI for creating, browsing, and modifying ZIP and RAR archives with ease.
 
-![zipaura logo]() <!-- Optional: include your logo here -->
+![zipaura logo](https://raw.githubusercontent.com/MaestroDelFuego/ZipAura/refs/heads/main/zipaura.ico) <!-- Optional: include your logo here -->
 
 ## ✨ Features
 
